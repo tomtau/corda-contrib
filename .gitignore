@@ -1,3 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+logs/
+target/
+
+# Gradle
+classes/
+
 .gradle
 /build/
 
